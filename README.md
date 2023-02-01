@@ -30,9 +30,9 @@
 
 * Switching the vehicle array to an actual list. The instructions state to use a list, and implementing IComparable allows us to sort.
 
-* Looked through the recommended fixes and adjustments. Accepted some like "Make read-only", and ingored others like "Random random = new()"
+* Looked through the recommended fixes and adjustments. Accepted some, like: "Make read-only", and ingored others, like: "Random random = new()"
 
-* I left more inline comments than usual to explain things I wouldn't normally due etc.
+* I left more inline comments than usual to explain things I wouldn't normally do etc.
 
 
 ## Process:
