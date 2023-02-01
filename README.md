@@ -33,7 +33,7 @@
 * Looked through the recommended fixes and adjustments. Accepted some, like: "Make read-only", and ingored others, like: "Random random = new()"
 
 * I left more inline comments than usual to explain things I wouldn't normally do etc.
-
+* Could extract the data arrays into a different file for organization purposes
 
 ## Process:
 
