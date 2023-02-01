@@ -1,0 +1,15 @@
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.exe
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.deps.json
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.runtimeconfig.json
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.dll
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\bin\Debug\net6.0\CodingChallenge.pdb
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.dll
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\refint\CodingChallenge.dll
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.pdb
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\CodingChallenge.genruntimeconfig.cache
+C:\Users\rnitz\source\repos\CodingChallenge\CodingChallenge\obj\Debug\net6.0\ref\CodingChallenge.dll
